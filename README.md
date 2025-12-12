@@ -1,4 +1,4 @@
-# atm-simulation
+# ATM Simulation
 A terminal-based ATM simulation written in C++ (2023).
 
 > [!WARNING]
